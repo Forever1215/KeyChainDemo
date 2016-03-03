@@ -16,7 +16,7 @@ import java.util.Date;
  * Created by FX50J on 2016/2/1.
  */
 public class Add_Activity extends AppCompatActivity {
-
+//add_item
     EditText et1;
     EditText et2;
     EditText et3;
